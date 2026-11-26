@@ -1,0 +1,14 @@
+Group Study Rooms
+Source: written for this sample project (imaginary library).
+
+Rooms
+There are 6 group study rooms on the third floor. Each room seats 4 to 8 people and has a whiteboard.
+
+Booking
+Rooms are booked on the library portal, up to 3 days ahead. A booking lasts at most 2 hours per group per day. A group needs at least 3 members.
+
+Check-in
+The group must check in at the third-floor desk within 15 minutes of the start time. After 15 minutes the booking is cancelled and the room is given to others.
+
+Rules for rooms
+Rooms may be used between 9:00 am and 7:00 pm. Leave the whiteboard clean and the furniture in place. Repeated no-shows lead to a one-week booking ban.

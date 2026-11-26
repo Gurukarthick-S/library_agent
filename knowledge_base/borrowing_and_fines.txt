@@ -1,0 +1,17 @@
+Borrowing and Fines
+Source: written for this sample project (imaginary library).
+
+Borrowing limits
+A student may borrow up to 5 books at a time for 14 days. Faculty may borrow up to 10 books for 30 days. Reference books and journals cannot be taken out of the library.
+
+Renewals
+A book can be renewed twice, for another 14 days each time, if no one else has reserved it. Renewal must be done before the due date, at the front desk or on the library portal.
+
+Fines
+The fine for a late book is Rs 2 per book per day. The fine for any one book is capped at Rs 200. Borrowing is blocked while fines are unpaid.
+
+Lost or damaged books
+If a book is lost, the borrower pays the replacement cost of the book plus a processing fee of Rs 100. Damaged books are assessed by the librarian.
+
+Reservations
+A book that is on loan can be reserved at the front desk. You will be told by email when it is ready, and it is held for 3 days.
